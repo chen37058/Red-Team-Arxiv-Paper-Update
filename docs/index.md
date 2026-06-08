@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.06.01
+## Updated on 2026.06.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Red Teaming
