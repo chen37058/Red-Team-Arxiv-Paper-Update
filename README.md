@@ -723,7 +723,7 @@
 |**2024-12-19**|**Alignment-Enhanced Decoding:Defending via Token-Level Adaptive Refining of Probability Distributions**|Quan Liu et.al.|[2408.07663](http://arxiv.org/abs/2408.07663)|**[link](https://github.com/gigabaozi/aed)**|
 |**2025-02-06**|**On Effects of Steering Latent Representation for Large Language Model Unlearning**|Dang Huu-Tien et.al.|[2408.06223](http://arxiv.org/abs/2408.06223)|**[link](https://github.com/RebelsNLU-jaist/llm-unlearning)**|
 |**2024-08-09**|**A Jailbroken GenAI Model Can Cause Substantial Harm: GenAI-powered Applications are Vulnerable to PromptWares**|Stav Cohen et.al.|[2408.05061](http://arxiv.org/abs/2408.05061)|**[link](https://github.com/stavc/promptwares)**|
-|**2025-03-25**|**h4rm3l: A language for Composable Jailbreak Attack Synthesis**|Moussa Koulako Bala Doumbouya et.al.|[2408.04811](http://arxiv.org/abs/2408.04811)|null|
+|**2025-03-25**|**h4rm3l: A language for Composable Jailbreak Attack Synthesis**|Moussa Koulako Bala Doumbouya et.al.|[2408.04811](http://arxiv.org/abs/2408.04811)|**[link](https://mdoumbouya.github.io/h4rm3l/)**|
 |**2024-08-08**|**Multi-Turn Context Jailbreak Attack on Large Language Models From First Principles**|Xiongtao Sun et.al.|[2408.04686](http://arxiv.org/abs/2408.04686)|null|
 |**2024-08-08**|**Compromesso! Italian Many-Shot Jailbreaks Undermine the Safety of Large Language Models**|Fabio Pernisi et.al.|[2408.04522](http://arxiv.org/abs/2408.04522)|null|
 |**2024-08-07**|**EnJa: Ensemble Jailbreak on Large Language Models**|Jiahao Zhang et.al.|[2408.03603](http://arxiv.org/abs/2408.03603)|null|
